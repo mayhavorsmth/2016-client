@@ -113,7 +113,7 @@ Save it
 Create a .bat file then edit it 
 write
 
-**start yourclientnamegoeshere.exe -a "http://yourdomaingoeshere/login/negotiate.ashx" -j "http://yourdomaingoeshere/game/join.ashx"**
+**start yourclientnamegoeshere.exe -a "http://yourdomaingoeshere/login/negotiate.ashx" -j "http://yourdomaingoeshere/game/join.ashx" -t "1"**
 save it
 open it to see if it works
 when the client open it should appear a error like
